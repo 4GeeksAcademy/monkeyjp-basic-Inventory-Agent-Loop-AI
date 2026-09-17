@@ -1,0 +1,6 @@
+id,name,quantity,unit,low_stock_threshold
+1,Oat Milk,70.0,liters,10.0
+2,Arabica Coffee,23.0,bags,15.0
+3,Paper Cups,120.0,units,50.0
+4,Vanilla Syrup,4.0,bottles,5.0
+5,Matcha Powder,10.0,kg,3.0
